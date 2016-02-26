@@ -1,0 +1,28 @@
+{
+  "name": "gm-tools",
+  "description": "Friendly tools for interacting with graphicsmagick",
+  "keywords": [
+    "gm",
+    "tools",
+    "friendly",
+    "for",
+    "interacting",
+    "with",
+    "graphicsmagick"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/gm-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/gm-tools/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/gm-tools#readme"
+}
