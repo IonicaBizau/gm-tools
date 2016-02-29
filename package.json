@@ -31,5 +31,8 @@
     "pixel-class": "^1.0.0",
     "pngjs": "^2.2.0",
     "same-time": "^2.3.1"
+  },
+  "blah": {
+    "h_img": "http://i.imgur.com/LzmaKvH.png"
   }
 }
