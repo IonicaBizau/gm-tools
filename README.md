@@ -108,6 +108,9 @@ Friendly tools for interacting with graphicsmagick
 - **String|Buffer|GraphicsMagick** `input`: The path to an image file, the image buffer or an existing GraphicsMagick object.
 - **Function** `cb`: The callback function.
 
+#### Return
+- **GmParser** The `GmParser` instance.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
