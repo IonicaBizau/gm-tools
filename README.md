@@ -2,7 +2,7 @@
 
 # gm-tools [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/gm-tools.svg)](https://www.npmjs.com/package/gm-tools) [![Downloads](https://img.shields.io/npm/dt/gm-tools.svg)](https://www.npmjs.com/package/gm-tools) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> Friendly tools for interacting with graphicsmagick
+> Friendly tools for interacting with GraphicsMagick.
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "gm-tools",
-  "description": "Friendly tools for interacting with graphicsmagick",
+  "description": "Friendly tools for interacting with GraphicsMagick.",
   "keywords": [
     "gm",
     "tools",
